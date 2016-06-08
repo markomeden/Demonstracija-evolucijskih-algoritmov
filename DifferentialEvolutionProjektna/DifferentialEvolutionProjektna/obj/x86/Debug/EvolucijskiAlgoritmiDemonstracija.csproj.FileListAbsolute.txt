@@ -1,0 +1,7 @@
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\bin\Debug\DifferentialEvolutionProjektna.exe
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\bin\Debug\DifferentialEvolutionProjektna.pdb
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\obj\x86\Debug\DifferentialEvolutionProjektna.Form1.resources
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\obj\x86\Debug\DifferentialEvolutionProjektna.Properties.Resources.resources
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\obj\x86\Debug\EvolucijskiAlgoritmiDemonstracija.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\obj\x86\Debug\DifferentialEvolutionProjektna.exe
+C:\Users\Marko\Desktop\DifferentialEvolutionProjektna\DifferentialEvolutionProjektna\obj\x86\Debug\DifferentialEvolutionProjektna.pdb
